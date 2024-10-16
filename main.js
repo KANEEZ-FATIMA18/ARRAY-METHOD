@@ -18,7 +18,7 @@ numbers.forEach(function (num) {
 var students = [
     { name: " Kaneez fatima", id: 1, age: 18 },
     { name: " Tabassum fatima", id: 2, age: 16 },
-    { name: " Faizan raza", id: 3, age: 11 },
+    { name: " bisma", id: 3, age: 11 },
 ];
 //using map()
 var studentNames = students.map(function (students) { return students.name; });
